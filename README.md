@@ -23,7 +23,7 @@ Love interacting with the community, share knowledge and learn new things.
 - 😄 Pronouns: he/him/his.
 - 🏢 I currently work making apps for businesses and gyms.
 - 🎞️ Sometimes I do live streams on Twitch [videos](https://www.twitch.tv/matiasp99).
-- 📫 How to reach me: matuutepallero@gmail.com.
+- 📫 How to reach me: devmatiaspallero@gmail.com.
 
 </br>
 
@@ -42,5 +42,5 @@ Love interacting with the community, share knowledge and learn new things.
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspallero&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
+  <img height="180em" src="![matiaspallero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspallero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
 </p>
