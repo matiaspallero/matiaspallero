@@ -42,5 +42,5 @@ Love interacting with the community, share knowledge and learn new things.
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="![matiaspallero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspallero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspallero&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
