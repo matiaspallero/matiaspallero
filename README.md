@@ -7,13 +7,13 @@
 
 </br>
 
-![.NET C#](https://img.shields.io/badge/.NET%20C%23-purple) ![SQLite](https://img.shields.io/badge/SQLite-skyblue) ![Python](https://img.shields.io/badge/Python-blue) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![React](https://img.shields.io/badge/React-paleturquoise?style=for-the-badge&logo=React&logoSize=auto) ![Vite](https://img.shields.io/badge/Vite-lightslategray?style=for-the-badge&logo=Vite&logoSize=auto) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Glad to see you here!
 
 <img align="right" alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zcnQ2cnp5dmY4bzN3bHkxMGc0cmk5Ym5wdHdjaXdkeDF1djN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="400" />
 
-I am currently working with .NET C#, and learning how to use .NET MAUI. 
+I am currently working with React + Vite.
 
 Love interacting with the community, share knowledge and learn new things.
 
