@@ -7,7 +7,7 @@
 
 </br>
 
-![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![React](https://img.shields.io/badge/React-mintcream?style=for-the-badge&logo=React&logoColor=%234169E1&logoSize=auto) ![Vite](https://img.shields.io/badge/Vite-lightslategray?style=for-the-badge&logo=Vite&logoSize=auto) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![React](https://img.shields.io/badge/React-mintcream?style=for-the-badge&logo=React&logoColor=%234169E1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Vite-mintcream?style=for-the-badge&logo=Vite&logoColor=%23FFA500&logoSize=auto) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Glad to see you here!
 
