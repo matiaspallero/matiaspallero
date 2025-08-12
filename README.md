@@ -1,6 +1,7 @@
 ### Hi there, I'm Matías 👋 ###
 
 </br>
+<h2 align="left">🤖 Mi Stack 🤖</h2>
 
 ![React](https://img.shields.io/badge/React-aliceblue?style=for-the-badge&logo=React&logoColor=blue) ![React Native](https://img.shields.io/badge/React%20Native-aliceblue?style=for-the-badge&logo=React&logoColor=blue) ![Expo](https://img.shields.io/badge/Expo-grey?style=for-the-badge&logo=Expo) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=orange) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-azure?style=for-the-badge&logo=tailwindCSS) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto)
 
@@ -45,7 +46,7 @@ Love interacting with the community, share knowledge and learn new things.
   
 <div align="left">
   
-  [![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/matiasp99)
+  [![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/matiasp99)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=x)](https://x.com/MatiasPallero99)
   
 </div>
