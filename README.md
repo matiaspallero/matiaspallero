@@ -16,10 +16,10 @@
 <h3 align="left">📲Contact me here👨🏻‍💻</h3>
 <div align="left">
   <a href="https://www.instagram.com/matiaspallero/" target="_blank">
-    <img src="https://img.shields.io/badge/v1?message=Instagram-crimson?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-crimson?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo"  />
   </a>
   <a href="devmatiaspallero@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/v1?message=Gmail-gainsboro?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-gainsboro?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/matiaspallero29/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
