@@ -48,6 +48,7 @@ Love interacting with the community, share knowledge and learn new things.
   
   [![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/matiasp99)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=x)](https://x.com/MatiasPallero99)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-firebrick?style=for-the-badge&logo=Instagram)](https://www.instagram.com/matiaspallero/)
   
 </div>
   
