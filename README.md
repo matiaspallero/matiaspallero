@@ -13,8 +13,6 @@
 <img align="right" alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zcnQ2cnp5dmY4bzN3bHkxMGc0cmk5Ym5wdHdjaXdkeDF1djN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="400" />
 
 <h3>📲Contact me here👨🏻‍💻</h3>
-</br>
-</br>
 
 <div align="center">
 
@@ -24,6 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-dimgrey?style=for-the-badge&logo=brave)](https://portfolio-matiaspallero.vercel.app/)
 
 </div>
+</br>
 
 I am currently working with React Native + Expo.
 
