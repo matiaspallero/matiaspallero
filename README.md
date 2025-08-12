@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/matiaspallero/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-crimson?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo"  />
   </a>
-  <a href="" target="_blank">
+  <a mailto="devmatiaspallero@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-gainsboro?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/matiaspallero29/" target="_blank">
