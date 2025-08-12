@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matias-pallero-a13a65173/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/MatiasPallero99)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=x)](https://x.com/MatiasPallero99)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-5C3C96?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/matiasp99)
 
 </br>
@@ -13,17 +13,13 @@
 
 <img align="right" alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zcnQ2cnp5dmY4bzN3bHkxMGc0cmk5Ym5wdHdjaXdkeDF1djN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="400" />
 
-<h3 align="left">📲Contact me here👨🏻‍💻</h3>
-<div align="left">
-  <a href="https://www.instagram.com/matiaspallero/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-crimson?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo"  />
-  </a>
-  <a target="_blank">
-    <img mailto="devmatiaspallero@gmail.com" src="https://img.shields.io/badge/Gmail-gainsboro?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/matiaspallero29/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-crimson?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmatiaspallero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiaspallero29/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matiaspallero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dimgrey?style=for-the-badge&logo=brave)](https://portfolio-matiaspallero.vercel.app/)
+
 </div>
 
 I am currently working with React Native + Expo.
