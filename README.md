@@ -7,7 +7,7 @@
 
 </br>
 
-![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![React](https://img.shields.io/badge/React-mintcream?style=for-the-badge&logo=React&logoColor=%234169E1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Vite-mintcream?style=for-the-badge&logo=Vite&logoColor=%23FFA500&logoSize=auto) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-azure?style=for-the-badge&logo=tailwindCSS) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![React](https://img.shields.io/badge/React-mintcream?style=for-the-badge&logo=React&logoColor=%234169E1&logoSize=auto) ![React Native](https://img.shields.io/badge/React%20Native-mintcream?style=for-the-badge&logo=React) ![Expo](https://img.shields.io/badge/Expo-grey?style=for-the-badge&logo=Expo) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-azure?style=for-the-badge&logo=tailwindCSS) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Glad to see you here!
 
