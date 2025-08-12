@@ -7,13 +7,26 @@
 
 </br>
 
-![React](https://img.shields.io/badge/React-aliceblue?style=for-the-badge&logo=React) ![React Native](https://img.shields.io/badge/React%20Native-aliceblue?style=for-the-badge&logo=React) ![Expo](https://img.shields.io/badge/Expo-grey?style=for-the-badge&logo=Expo) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=orange) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-azure?style=for-the-badge&logo=tailwindCSS) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto)
+![React](https://img.shields.io/badge/React-aliceblue?style=for-the-badge&logo=React&logoColor=blue) ![React Native](https://img.shields.io/badge/React%20Native-aliceblue?style=for-the-badge&logo=React&logoColor=blue) ![Expo](https://img.shields.io/badge/Expo-grey?style=for-the-badge&logo=Expo) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=orange) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-azure?style=for-the-badge&logo=tailwindCSS) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python&logoSize=auto) ![MySQL](https://img.shields.io/badge/MySQL-mintcream?style=for-the-badge&logo=MySQL&logoColor=%234169E1&logoSize=auto)
 
 ### Glad to see you here!
 
 <img align="right" alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zcnQ2cnp5dmY4bzN3bHkxMGc0cmk5Ym5wdHdjaXdkeDF1djN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="400" />
 
-I am currently working with React + Vite.
+<h3 align="left">📲Contact me here👨🏻‍💻</h3>
+<div align="left">
+  <a href="https://www.instagram.com/matiaspallero/" target="_blank">
+    <img src="https://img.shields.io/badge/v1?message=Instagram-crimson?style=for-the-badge&logo=Instagram" height="35" alt="instagram logo"  />
+  </a>
+  <a href="devmatiaspallero@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/v1?message=Gmail-gainsboro?style=for-the-badge&logo=Gmail" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/matiaspallero29/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+I am currently working with React Native + Expo.
 
 Love interacting with the community, share knowledge and learn new things.
 
@@ -21,8 +34,8 @@ Love interacting with the community, share knowledge and learn new things.
 
 - 👨 I’m Matías Pallero (matiaspallero).
 - 🏢 I currently work making apps for web and mobile.
-- 🎞️ Sometimes I do live streams on Twitch [videos](https://www.twitch.tv/matiasp99).
-- 📫 How to reach me: devmatiaspallero@gmail.com.
+- 🎞️ Sometimes I do live streams on [Twitch](https://www.twitch.tv/matiasp99) videos.
+- 🖥️ My [portfolio](https://portfolio-matiaspallero.vercel.app/).
 
 </br>
 
