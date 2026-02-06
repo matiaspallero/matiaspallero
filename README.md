@@ -56,6 +56,8 @@ Love interacting with the community, share knowledge and learn new things.
 
 📈 **My GitHub Stats:**
 
-<p>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats? username=Matias+Pallero&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=lax&theme=lax&color=%23FFFFFFFF&hide=avatar%2Ccommits%2Cissues%2Crank">
+<p align="left">
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=dracula)
 </p>
