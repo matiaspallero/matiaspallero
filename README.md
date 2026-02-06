@@ -56,7 +56,7 @@ Love interacting with the community, share knowledge and learn new things.
 
 📈 **My GitHub Stats:**
 
-<div align="right">
+<div align="center">
   
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
   
