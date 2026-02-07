@@ -15,7 +15,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-crimson?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmatiaspallero@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiaspallero29/)
-![Static Badge](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)
+[![Static Badge](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)](https://dev.to/matiaspallero/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dimgrey?style=for-the-badge&logo=brave)](https://portfolio-matiaspallero.vercel.app/)
 
 </div>
